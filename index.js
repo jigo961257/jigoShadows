@@ -49,4 +49,4 @@ function jigoShadows(options) {
     }
 }
 
-modules.exports.jigoShadows = jigoShadows;
+module.exports.jigoShadows = jigoShadows;
