@@ -4,7 +4,7 @@
 
 # Installation
 
-`npm i jigoShadows --save`
+`npm i jigoshadows --save`
 
 So...
 
