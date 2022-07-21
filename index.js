@@ -21,7 +21,7 @@ function jigoShadows(options) {
         isDiv = true;
         isImg = false;
     } else if (options.appliedFor == "image") {
-        images = document.querySelectorAll("image");
+        images = document.querySelectorAll("img");
         isDiv = false;
         isImg = true;
     }
